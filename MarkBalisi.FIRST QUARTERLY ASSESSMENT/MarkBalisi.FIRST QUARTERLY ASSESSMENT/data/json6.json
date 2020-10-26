@@ -1,0 +1,97 @@
+ [
+   {
+      "id":1,
+      "name":"Max Adams",
+      "born":"21 Oct 2001",
+      "cars":[
+         {
+            "make":"Mercedes",
+            "model":"GLS"
+         },
+         {
+            "make":"Audi",
+            "model":"Q8"
+         }
+      ],
+      "favourite":{
+         "colour":"Blue",
+         "movie":"Toy Story"
+      },
+      "telecoms":[
+         {
+            "use":"home"
+         },
+         {
+            "system":"phone",
+            "value":"(03) 5555 6473",
+            "use":"work"
+         },
+         {
+            "system":"email",
+            "value":"maxadams@example.org",
+            "use":"home"
+         }
+      ]
+   },
+   {
+      "id":2,
+      "name":"Steven Miller",
+      "born":"28 Jul 2004",
+      "cars":[
+         {
+            "make":"Tesla",
+            "model":"Model S"
+         }
+      ],
+      "favourite":{
+         "colour":"Red",
+         "movie":"Mulan"
+      },
+      "telecoms":[
+         {
+            "use":"home"
+         },
+         {
+            "system":"phone",
+            "value":"(07) 8375 3409",
+            "use":"work"
+         },
+         {
+            "system":"email",
+            "value":"themanstevemiller@example.org",
+            "use":"home"
+         }
+      ]
+   },
+   {
+      "id":3,
+      "name":"Daniel James",
+      "born":"18 Dec 2005",
+      "cars":[
+         {
+            "make":"Bugatti",
+            "model":"Chiron"
+         }
+      ],
+      "favourite":{
+         "colour":"Yellow",
+         "movie":"Frozen",
+         "toy":"Teddy"
+      },
+      "telecoms":[
+         {
+            "use":"home"
+         },
+         {
+            "system":"phone",
+            "value":"(07) 3854 2938",
+            "use":"work"
+         },
+         {
+            "system":"email",
+            "value":"djames@example.org",
+            "use":"home"
+         }
+      ]
+   }
+]

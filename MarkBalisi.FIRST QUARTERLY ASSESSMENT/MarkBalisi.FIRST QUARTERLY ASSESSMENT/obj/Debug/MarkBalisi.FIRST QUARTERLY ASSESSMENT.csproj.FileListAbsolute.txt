@@ -1,0 +1,20 @@
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\bin\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.exe.config
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\bin\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.exe
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\bin\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.pdb
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\Personal Info\PersonalInfoWindows.g.cs
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT_MarkupCompile.cache
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT_MarkupCompile.lref
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MainWindow.baml
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\Personal Info\PersonalInfoWindows.baml
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.g.resources
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST_QUARTERLY_ASSESSMENT.Properties.Resources.resources
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.csproj.CopyComplete
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.exe
+C:\Users\hp\Documents\Major Activity\First Quarterly Exam\MarkBalisi.FIRST QUARTERLY ASSESSMENT\MarkBalisi.FIRST QUARTERLY ASSESSMENT\obj\Debug\MarkBalisi.FIRST QUARTERLY ASSESSMENT.pdb

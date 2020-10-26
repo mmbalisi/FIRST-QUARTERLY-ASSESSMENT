@@ -1,0 +1,78 @@
+﻿<Window x:Name="___No_Name__" x:Class="MarkBalisi.FIRST_QUARTERLY_ASSESSMENT.Personal_Info.PersonalInfoWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MarkBalisi.FIRST_QUARTERLY_ASSESSMENT.Personal_Info"
+        mc:Ignorable="d"
+        Title="PersonalInfoWindows" Height="3616.5" Width="800">
+    <Grid>
+        <Label x:Name="lblTitle" Content="Personal Info." HorizontalAlignment="Left" Height="42" Margin="10,10,0,0" VerticalAlignment="Top" Width="224" FontSize="16" FontFamily="Copperplate Gothic Light"/>
+        <Label x:Name="lblPeronalInfoId" Content="Label" HorizontalAlignment="Left" Height="44" Margin="10,90,0,0" VerticalAlignment="Top" Width="224"/>
+        <Label x:Name="lblPeronalInfoName" Content="Label" HorizontalAlignment="Left" Height="44" Margin="10,139,0,0" VerticalAlignment="Top" Width="224"/>
+        <Label x:Name="lblPeronalInfoBorn" Content="Label" HorizontalAlignment="Left" Height="44" Margin="10,188,0,0" VerticalAlignment="Top" Width="224"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="286" Margin="10,237,0,0" VerticalAlignment="Top" Width="346"/>
+        <Label x:Name="lblPersonalInfoCars" Content="Label" HorizontalAlignment="Left" Height="44" Margin="10,237,0,0" VerticalAlignment="Top" Width="224"/>
+        <Label x:Name="lblPersonalInfoCarsMake" Content="Label" HorizontalAlignment="Left" Height="44" Margin="67,286,0,0" VerticalAlignment="Top" Width="224"/>
+        <Label x:Name="lblPersonalInfoCarsModel" Content="Label" HorizontalAlignment="Left" Height="44" Margin="67,335,0,0" VerticalAlignment="Top" Width="224"/>
+        <Label x:Name="lblPersonalInfoCarsMake2" Content="Label" HorizontalAlignment="Left" Height="44" Margin="67,410,0,0" VerticalAlignment="Top" Width="224"/>
+        <Label x:Name="lblPersonalInfoCarsModel2" Content="Label" HorizontalAlignment="Left" Height="44" Margin="67,459,0,0" VerticalAlignment="Top" Width="224"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="172" Margin="10,528,0,0" VerticalAlignment="Top" Width="346">
+            <Label x:Name="lblPersonalInfoFavourite" Content="Label" HorizontalAlignment="Left" Height="42" Margin="-1,-1,0,0" VerticalAlignment="Top" Width="210"/>
+        </Border>
+        <Label x:Name="lblPersonalInfoFavouriteColour" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,586,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoFavouriteMovie" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,633,0,0" VerticalAlignment="Top" Width="210"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="482" Margin="10,705,0,0" VerticalAlignment="Top" Width="346">
+            <Label x:Name="lblPersonalInfoTelecoms_Copy" Content="Label" HorizontalAlignment="Left" Height="42" Margin="-1,-1,0,0" VerticalAlignment="Top" Width="210"/>
+        </Border>
+        <Label x:Name="lblPersonalInfoTelecomsUse" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,765,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoTelecomsSystem" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,836,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoTelecomsValue" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,883,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse2" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,930,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoTelecomsSystem2" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,1016,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoTelecomsValue2" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,1063,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse3" Content="Label" HorizontalAlignment="Left" Height="42" Margin="67,1110,0,0" VerticalAlignment="Top" Width="210"/>
+        <Label x:Name="lblPersonalInfoId2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="10,1265,0,0" VerticalAlignment="Top" Width="226"/>
+        <Label x:Name="lblPersonalInfoName2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="8,1317,0,0" VerticalAlignment="Top" Width="226"/>
+        <Label x:Name="lblPersonalInfoBorn2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="10,1369,0,0" VerticalAlignment="Top" Width="226"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="200" Margin="8,1421,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label x:Name="lblPersonalInfoCars2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="10,1421,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoCarsMake3" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,1488,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoCarsModel3" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,1540,0,0" VerticalAlignment="Top" Width="202"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="200" Margin="8,1626,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label x:Name="lblPersonalInfoFavourite1" Content="Label" HorizontalAlignment="Left" Height="47" Margin="10,1626,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoFavouriteColour2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,1678,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoFavouriteMovie2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,1730,0,0" VerticalAlignment="Top" Width="202"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="499" Margin="8,1831,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label x:Name="lblPersonalInfoFavourite2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="10,1626,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecoms2" Content="Label" HorizontalAlignment="Left" Height="47" Margin="10,1831,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse4" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,1898,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsSystem3" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,1968,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsValue3" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,2015,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse5" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,2067,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsSystem4" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,2137,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsValue4" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,2189,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse6" Content="Label" HorizontalAlignment="Left" Height="47" Margin="67,2241,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label x:Name="lblPersonalInfoId3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="10,2396,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoName3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="10,2449,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoBorn3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="10,2502,0,0" VerticalAlignment="Top" Width="216"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="198" Margin="8,2555,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label x:Name="lblPersonalInfoCars3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="10,2555,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoCarsMake4" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,2629,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoCarsModel4" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,2682,0,0" VerticalAlignment="Top" Width="216"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="198" Margin="8,2758,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label x:Name="lblPersonalInfoFavourite3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="10,2758,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoFavouriteColour3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,2811,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoFavouriteMovie3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,2864,0,0" VerticalAlignment="Top" Width="216"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="523" Margin="8,2961,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label x:Name="lblPersonalInfoTelecoms3" Content="Label" HorizontalAlignment="Left" Height="48" Margin="10,2961,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse7" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3014,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsSystem5" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3087,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsValue5" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3140,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse8" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3193,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsSystem6" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3287,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsValue6" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3340,0,0" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="lblPersonalInfoTelecomsUse9" Content="Label" HorizontalAlignment="Left" Height="48" Margin="67,3393,0,0" VerticalAlignment="Top" Width="216"/>
+
+    </Grid>
+</Window>
